@@ -1,5 +1,3 @@
-Here’s the updated profile with your email:
-
 👋 Hi, I’m @Daveram1714
 
 👀 I’m interested in software development, full-stack web projects, and exploring new technologies.
